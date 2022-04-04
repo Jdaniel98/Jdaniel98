@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jdaniel98
 - 👀 I’m interested in learning Python, javascript and CSS
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects related to python, CSS and javascript
+- 🌱 I’m currently learning Html, CSS and Javascript
+- 💞️ I’m looking to collaborate on projects related to Html, CSS and javascript
 - 📫 How to reach me:  d_aniel_O on Twitter
 
 <!---
