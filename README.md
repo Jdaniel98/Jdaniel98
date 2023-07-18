@@ -8,10 +8,6 @@
 
 💡 Innovation and creativity fuel my work, and I'm eager to contribute my ideas and expertise to create efficient and cutting-edge applications. I believe in the power of collaboration and continuous learning, and I'm always on the lookout for new challenges to stretch my coding muscles.
 
-🌱 At Altschool Africa Bootcamp, I'm not just gaining technical expertise; I'm also developing a growth mindset and a strong sense of teamwork. I'm eager to take on real-world projects, turning concepts into reality while learning from experienced mentors and fellow enthusiasts.
-
-🌍 Beyond coding, I'm a passionate explorer of cultures, languages, and the arts. My diverse interests have taught me to approach problems from various perspectives, making me a versatile and adaptable engineer.
-
 📈 Join me on my coding adventure as I embrace every opportunity to learn, collaborate, and make a meaningful impact in the tech world. Let's connect and create something extraordinary together! 💻✨
 **Here's a quick summary about me**:
 
