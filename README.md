@@ -9,6 +9,7 @@
 💡 Innovation and creativity fuel my work, and I'm eager to contribute my ideas and expertise to create efficient and cutting-edge applications. I believe in the power of collaboration and continuous learning, and I'm always on the lookout for new challenges to stretch my coding muscles.
 
 📈 Join me on my coding adventure as I embrace every opportunity to learn, collaborate, and make a meaningful impact in the tech world. Let's connect and create something extraordinary together! 💻✨
+
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
