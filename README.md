@@ -13,7 +13,7 @@
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 🌱 I’m currently learning JavaScript, NodeJS, and Python.
+- 🌱 I’m currently learning JavaScript, NodeJS, C++ and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer
 - 📫 You can [view my resume](#) and contact me by emailing kwameowusu421@gmail.com.
