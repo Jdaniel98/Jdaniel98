@@ -1,25 +1,29 @@
-<h1 align="center">Hey, I'm Daniel 👋</h1>
+# Daniel Owusu Mensah
 
-<p align="center">
-  Python Backend Engineer — building APIs, ORMs, and developer tools.
-</p>
+Software engineer in Accra, Ghana. I build backend systems and tools, and I care most about
+being able to show that something works: tests, reproducible results, honest write-ups.
 
----
+Background: electrical engineering at KNUST, then backend engineering. These days I also work on
+evaluating and reviewing AI model output.
 
-### Tech Stack
+## Selected work
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+**[Barcola](https://github.com/Jdaniel98/Barcola)** · C++17
+A backtesting toolkit and a pre-registered study of whether two classic trading strategies beat
+buying and holding. They don't: tested out of sample, on 29 Dow stocks picked without hindsight,
+and on 2025–2026 data no study had seen. 214 tests, sanitizers, fuzzing, and results that
+reproduce exactly on Linux and macOS.
 
----
+**[StudyForge](https://github.com/Jdaniel98/StudyForge)** · Swift, SwiftUI, Supabase
+A local-first study timer for iOS and macOS. Works fully offline on Core Data; study groups and
+leaderboards sync through Supabase with row-level security.
 
-### Currently Building
+**[ledger-logic](https://github.com/Jdaniel98/ledger-logic)** · TypeScript, Electron, SQLite
+A local-first desktop budgeting app with multi-currency accounts, including African currencies.
 
-- **[Coral-ORM](https://github.com/Jdaniel98/Coral-ORM)** — A Python ORM for relational databases.
-- **[RonNotes](https://github.com/Jdaniel98/RonNotes)** — A local-first, AI-powered note-taking app built with Tauri, React, and SQLite.
+**[Scissor-App](https://github.com/Jdaniel98/Scissor-App)** · Python, FastAPI
+A small URL shortener with custom links, QR codes and click counts.
+
+## Tools I use most
+
+Python · C++ · TypeScript · Swift · PostgreSQL · SQLite · FastAPI · React · Git and GitHub Actions
